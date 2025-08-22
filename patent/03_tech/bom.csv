@@ -1,0 +1,6 @@
+designator,qty,manufacturer,mpn,description,voltage,current,power,notes
+U1,1,Microchip,ATSAMD21G18,32-bit MCU,3.3V,,,
+U2,1,TI,LMR16030,3A buck regulator,12V->5V,,,
+D1,1,Littelfuse,SMF5.0A,TVS diode,5V,,,ESD
+C1,4,Murata,GRM21BR61A106KE19,10uF 10V X5R,10V,,,
+R1,10,Yageo,RC0603FR-074K7,4.7k 1%,,,,Pull-ups

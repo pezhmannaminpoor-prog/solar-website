@@ -1,0 +1,7 @@
+block_name,type,origin,vendor,license,estimated_area_mm2,estimated_power_mw,status,notes
+CPU_Core,digital,3P,ARM,Architecture,,,
+SRAM_Macro,memory,Foundry,TSMC,Foundry,,,
+ADC_12b,analog,Custom,,,0.25,8,,
+PLL_RF,analog,3P,SiliconCreek,IP,,,
+AXI_Fabric,digital,Custom,,,1.2,15,,
+Crypto_Accel,digital,3P,Rambus,IP,,,
