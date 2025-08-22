@@ -1,0 +1,2 @@
+id,date,source,type,title_or_patent_no,url,assignee_or_authors,relevance,closest_claim_text,key_figures,notes,distinguishing_features
+1,YYYY-MM-DD,Google Patents,Patent,US20xx/xxxxxxx,https://,Company A,High,"[copy independent claim excerpt]","Fig. 1; Fig. 3","[summary]",[how we differ]
